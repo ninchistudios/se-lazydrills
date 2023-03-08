@@ -20,9 +20,10 @@ using VRageMath;
 
 namespace IngameScript {
     partial class Program : MyGridProgram {
-        // Kristofs Lazy Drill Script 
-        string version = "Version 1.5";
-        // This script is intended to be a generic script to drive a DRILL grid with 2 piston groups and a rotor.
+        // Lazy Drills by Huey
+        // a fork of Kristofs Lazy Drill Script https://steamcommunity.com/sharedfiles/filedetails/?id=1867870454
+        string version = "2023.1";
+        // This script is intended to be a generic script to drive a rotating and extending drill grid with one or two piston groups, and a rotor.
         // Read the info in the workshop about its features.
 
         //IMPORTANT SETUP INFO

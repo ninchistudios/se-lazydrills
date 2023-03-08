@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33328.57
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ncs-se-lazydrills", "ncs-se-lazydrills.csproj", "{1E49D31B-B687-4232-B54D-1BC78B75A136}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lazy Drills by NCS", "Lazy Drills by NCS.csproj", "{1E49D31B-B687-4232-B54D-1BC78B75A136}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
